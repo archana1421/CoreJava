@@ -1,0 +1,24 @@
+
+Outputs and details:
+
+LAB2 is in comments in Method Arguments.java
+
+addUp(3.2, 2.2)
+
+        Double Type
+        5.4
+
+addUp(1, 4)
+        Integer Type
+        5
+
+
+addUp("one", "three")
+        String Type
+        4
+
+addUp(2, 3.5)
+Doesn't work as there is no method defined with int and double as arguments
+
+addUp(1, "three")
+Doesn't work as there is no method defined with int and string as arguments
