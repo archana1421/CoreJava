@@ -1,0 +1,14 @@
+Day 4 Core Java
+
+Quiz 
+
+1) boolean equalsIgnoreCase(String s1);
+2) boolean startsWith(String s)//s="beginning"
+3) String s="John,Fred,1982,12,26"
+	String str[]=s.split(",");
+4) String trim();
+5)	int indexOf(int ch)
+	//str.indexOf('!');
+6) char charAt(int index)
+	//str.charAt(14);
+	
